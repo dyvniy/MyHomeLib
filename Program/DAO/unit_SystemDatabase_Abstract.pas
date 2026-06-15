@@ -69,10 +69,10 @@ type
   end;
 
 resourcestring
-  rstrNamelessColection = 'безіменна колекція';
-  rstrUnknownCollection = 'невідома колекція';
-  rstrFavoritesGroupName = 'Обране';
-  rstrToReadGroupName = 'До прочитання';
+  rstrNamelessColection = 'безымянная коллекция';
+  rstrUnknownCollection = 'неизвестная коллекция';
+  rstrFavoritesGroupName = 'Избранное';
+  rstrToReadGroupName = 'К прочтению';
 
 implementation
 
